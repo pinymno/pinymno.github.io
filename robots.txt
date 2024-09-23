@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pinymno.github.io/sitemap.html.gz
+Sitemap: https://pinymno.github.io/app/sitemap.html.gz
+Sitemap: https://pinymno.github.io/assets/sitemap.html.gz
+Sitemap: https://pinymno.github.io/css/sitemap.html.gz
+Sitemap: https://pinymno.github.io/data/sitemap.html.gz
+Sitemap: https://pinymno.github.io/includes/sitemap.html.gz
+Sitemap: https://pinymno.github.io/item/sitemap.html.gz
+Sitemap: https://pinymno.github.io/src/sitemap.html.gz
